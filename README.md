@@ -26,7 +26,7 @@ _(Note: Ruby gem dependencies will be installed automatically by Bundler.)_
 
 ## Setup/Installation Requirements
 
-* Clone the GitHub repository: [https://github.com/christophermneal/scrabble-score-project](https://github.com/christophermneal/scrabble-score-project)
+* Clone the GitHub repository: [https://github.com/christophermneal/leetspeak](https://github.com/christophermneal/leetspeak)
 * From the main project directory, enter `bundle install` in the terminal to populate gems.
 * Enter `rspec` into the terminal to confirm passing of all tests.
 * Enter `code .` into the terminal to open the files in VS Code and see the program functions.
